@@ -48,3 +48,4 @@ def predict_wood(image_path):
 
 # Example usage
 # predict_wood("example_wood.jpg")
+raw
